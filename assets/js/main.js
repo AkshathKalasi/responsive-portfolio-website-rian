@@ -14,7 +14,7 @@ window.addEventListener('scroll', () => {
 
 /*=============== EMAIL JS ===============*/
 // Create a free account at emailjs.com and fill in these three values
-const SERVICE_ID = 'YOUR_SERVICE_ID', TEMPLATE_ID = 'YOUR_TEMPLATE_ID', PUBLIC_KEY = 'YOUR_PUBLIC_KEY'
+const SERVICE_ID = 'service_i4jb2jz', TEMPLATE_ID = 'template_v47qykm', PUBLIC_KEY = 'pQGJhmVDRqNLChZTs'
 const form = document.getElementById('contact-form'), msg = document.getElementById('contact-message')
 form.addEventListener('submit', e => {
   e.preventDefault()
